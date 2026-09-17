@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "builderVersion": "3.4.0",
+  "builderVersion": "3.5.0",
   "screenOrder": ["home", "discover", "collaboration", "marketplace", "creator-profile"],
-  "updatedAt": "2026-09-18T02:20:00+09:00"
+  "updatedAt": "2026-09-18T02:30:00+09:00"
 }
