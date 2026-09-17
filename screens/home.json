@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "key": "home",
+  "frameName": "[AIVC] Home",
+  "activeNav": "홈",
+  "categories": ["전체", "작품", "제작", "모델·툴", "피드백", "질문", "뉴스", "자유"],
+  "feedTabs": ["인기", "최신", "팔로잉"],
+  "composer": {"title": "커뮤니티에 공유하기", "subtitle": "작품, 질문, 제작 팁을 공유해보세요"},
+  "posts": [
+    {
+      "type": "video",
+      "creator": "@bluefilm",
+      "meta": "작품 · 12분 전",
+      "title": "AI 단편영화 테스트 — 야간 도시 시퀀스",
+      "description": "캐릭터 일관성과 카메라 무빙을 테스트했습니다. 마지막 장면은 이미지→영상 방식으로 전환했습니다.",
+      "tools": ["Kling", "Veo"],
+      "stageMeta": "00:32 · Veo 4 / Midjourney / Premiere",
+      "metrics": "♡ 126    댓글 34    저장    공유"
+    },
+    {
+      "type": "text",
+      "creator": "@motionlab",
+      "meta": "모델·툴 · 34분 전",
+      "title": "같은 이미지로 Kling과 Veo의 인물 일관성 비교 기록",
+      "description": "같은 레퍼런스로 세 장면씩 테스트한 결과를 정리했습니다. 카메라 이동이 들어갈 때 차이가 컸습니다.",
+      "tags": ["#Kling", "#Veo", "#워크플로"],
+      "metrics": "♡ 42    댓글 11    저장"
+    },
+    {
+      "type": "question",
+      "creator": "@framebyframe",
+      "meta": "질문 · 1시간 전",
+      "title": "Veo에서 캐릭터 얼굴이 계속 달라집니다",
+      "description": "세 장면 이상 생성하면 동일 인물 유지가 잘 안 되는데 어떤 방식 쓰시나요?",
+      "tags": ["#Veo", "#캐릭터일관성"],
+      "metrics": "♡ 18    댓글 32"
+    }
+  ],
+  "rightRail": {
+    "trending": ["Veo 4 레퍼런스 비교", "Kling 3 Motion Control", "AI 단편영화 공모전", "캐릭터 일관성 워크플로"],
+    "tools": ["Veo", "Kling", "Seedance", "Runway", "ComfyUI"],
+    "tags": ["#AI단편영화", "#실사영상", "#캐릭터일관성", "#프롬프트", "#뮤직비디오", "#워크플로"],
+    "creators": [
+      {"handle": "@neofilm", "role": "AI Filmmaker"},
+      {"handle": "@motionlab", "role": "Director"}
+    ]
+  },
+  "communityRule": "상품·강의·외부 서비스 홍보는 금지합니다. 작품과 경험, 의견은 자유롭게 공유하세요."
+}

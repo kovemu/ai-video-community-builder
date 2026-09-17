@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "key": "discover",
+  "frameName": "[AIVC] Discover",
+  "activeNav": "탐색",
+  "title": "탐색",
+  "tabs": ["인기 작품", "신규 작품", "제작자", "툴", "태그"],
+  "featuredWorks": [
+    {"title": "After Rain", "creator": "@bluefilm", "tools": ["Veo", "Runway"]},
+    {"title": "Neon Busan", "creator": "@motionlab", "tools": ["Kling", "ComfyUI"]},
+    {"title": "Last Signal", "creator": "@neofilm", "tools": ["Seedance", "Premiere"]}
+  ],
+  "risingCreators": [
+    {"handle": "@bluefilm", "role": "AI Filmmaker", "specialty": "Cinematic / SF"},
+    {"handle": "@motionlab", "role": "Director", "specialty": "Music Video"},
+    {"handle": "@neofilm", "role": "AI Creator", "specialty": "Realistic Video"}
+  ],
+  "popularTools": ["Veo", "Kling", "Seedance", "Runway", "ComfyUI"],
+  "popularTopics": ["#AI단편영화", "#캐릭터일관성", "#립싱크", "#카메라무빙", "#실사AI"]
+}
