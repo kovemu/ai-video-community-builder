@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "key": "marketplace",
+  "frameName": "[AIVC] Marketplace",
+  "activeNav": "마켓",
+  "title": "마켓",
+  "subtitle": "창작에 필요한 것을 거래하세요.",
+  "categories": ["전체", "시나리오", "영상 에셋", "이미지", "음악·효과음", "캐릭터", "인물·초상권", "기타"],
+  "items": [
+    {"type": "asset", "title": "Cyberpunk Alley", "creator": "@neofilm", "license": "Commercial OK", "price": "$12"},
+    {"type": "script", "title": "SF 단편 시나리오 — Echo", "creator": "@storyroom", "license": "Commercial OK", "price": "$18"},
+    {"type": "human", "title": "Min J.", "creator": "Verified Human", "features": ["Face", "Voice"], "license": "Project approval required", "action": "사용 요청"}
+  ],
+  "humanLicenseNote": "인물·초상권은 일반 다운로드 상품과 다르게 프로젝트별 승인이 필요합니다. 사용 범위, 기간, 매체를 요청하고 승인된 조건 안에서만 사용합니다."
+}
