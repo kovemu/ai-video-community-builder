@@ -8,22 +8,31 @@
   "dealFilters": ["전체", "취미", "포트폴리오", "수익배분", "유료"],
   "projects": [
     {
-      "title": "AI SF 단편영화 함께 제작할 영상 제작자 모집",
-      "project": "10분 SF 단편",
+      "title": "10분 SF 단편영화 함께 만들 AI 영상 제작자 구합니다",
+      "project": "독립 SF 단편 · 약 10분",
       "currentTeam": "감독 / 작가 / 음악",
-      "seeking": "AI 영상 제작자",
+      "seeking": "AI 영상 제작자 1명",
       "compensation": "수익배분",
       "duration": "약 4주",
       "creator": "@bluefilm"
     },
     {
-      "title": "뮤직비디오용 AI 캐릭터 애니메이션 파트너 구합니다",
-      "project": "인디 뮤지션 MV",
-      "currentTeam": "감독 / 편집 / 뮤지션",
-      "seeking": "캐릭터·모션 제작",
+      "title": "인디 뮤지션 신곡 MV에 참여할 캐릭터·모션 제작자 모집",
+      "project": "싱글 뮤직비디오 · 3분 20초",
+      "currentTeam": "뮤지션 / 감독 / 편집",
+      "seeking": "캐릭터·모션 제작자",
       "compensation": "유료",
       "duration": "약 2주",
       "creator": "@motionlab"
+    },
+    {
+      "title": "AI 공모전 출품용 60초 영상 팀원 구합니다",
+      "project": "AI 숏필름 공모전 · 60초",
+      "currentTeam": "기획 / 영상제작",
+      "seeking": "시나리오 / 사운드",
+      "compensation": "포트폴리오",
+      "duration": "10일",
+      "creator": "@neofilm"
     }
   ]
 }
