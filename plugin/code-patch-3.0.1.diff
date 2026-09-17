@@ -1,0 +1,11 @@
+--- a/code.js
++++ b/code.js
+@@
+   const composer = card({ name: 'Home Composer', width: 800, gap: 6, padding: 18 });
+   composer.counterAxisSizingMode = 'FIXED';
+-  composer.layoutSizingHorizontal = 'FILL';
++  main.appendChild(composer);
++  composer.layoutSizingHorizontal = 'FILL';
+   composer.appendChild(await text(config.composer?.title || fallback.composer.title, { size: TOKENS.type.cardTitle, weight: 'bold' }));
+   composer.appendChild(await text(config.composer?.subtitle || fallback.composer.subtitle, { size: TOKENS.type.bodySmall, color: TOKENS.colors.textSecondary }));
+-  main.appendChild(composer);
