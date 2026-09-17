@@ -1,0 +1,1 @@
+The v3 bootstrap renderer is validated locally against the sync contract. The repository currently holds the remote runtime definitions and plugin manifest/UI metadata; routine UI changes are driven from `screens/` and `design/`.
