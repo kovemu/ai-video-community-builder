@@ -5,24 +5,27 @@
   "activeNav": "홈",
   "categories": ["전체", "작품", "제작", "모델·툴", "피드백", "질문", "뉴스", "자유"],
   "feedTabs": ["인기", "최신", "팔로잉"],
-  "composer": {"title": "커뮤니티에 공유하기", "subtitle": "작품, 질문, 제작 팁을 공유해보세요"},
+  "composer": {
+    "title": "지금 무엇을 만들고 있나요?",
+    "subtitle": "작품, 제작 과정, 질문과 노하우를 커뮤니티에 공유하세요."
+  },
   "posts": [
     {
       "type": "video",
       "creator": "@bluefilm",
       "meta": "작품 · 12분 전",
-      "title": "AI 단편영화 테스트 — 야간 도시 시퀀스",
-      "description": "캐릭터 일관성과 카메라 무빙을 테스트했습니다. 마지막 장면은 이미지→영상 방식으로 전환했습니다.",
-      "tools": ["Kling", "Veo"],
+      "title": "서울의 밤을 AI로 다시 찍어봤습니다",
+      "description": "캐릭터 일관성과 카메라 무빙을 중심으로 만든 32초 시네마틱 테스트입니다. 마지막 컷은 이미지→영상 방식으로 전환했습니다.",
+      "tools": ["Veo", "Midjourney", "Premiere"],
       "stageMeta": "00:32 · Veo 4 / Midjourney / Premiere",
       "metrics": "♡ 126    댓글 34    저장    공유"
     },
     {
       "type": "text",
       "creator": "@motionlab",
-      "meta": "모델·툴 · 34분 전",
-      "title": "같은 이미지로 Kling과 Veo의 인물 일관성 비교 기록",
-      "description": "같은 레퍼런스로 세 장면씩 테스트한 결과를 정리했습니다. 카메라 이동이 들어갈 때 차이가 컸습니다.",
+      "meta": "제작 · 34분 전",
+      "title": "같은 레퍼런스로 Kling과 Veo를 비교해봤습니다",
+      "description": "세 장면씩 동일 조건으로 테스트했습니다. 인물 일관성은 비슷했지만 카메라 이동이 들어갈 때 결과 차이가 크게 났습니다.",
       "tags": ["#Kling", "#Veo", "#워크플로"],
       "metrics": "♡ 42    댓글 11    저장"
     },
@@ -30,14 +33,14 @@
       "type": "question",
       "creator": "@framebyframe",
       "meta": "질문 · 1시간 전",
-      "title": "Veo에서 캐릭터 얼굴이 계속 달라집니다",
-      "description": "세 장면 이상 생성하면 동일 인물 유지가 잘 안 되는데 어떤 방식 쓰시나요?",
+      "title": "Veo에서 캐릭터 얼굴을 여러 장면에 유지하는 방법이 있나요?",
+      "description": "세 장면 이상 이어가면 얼굴이 조금씩 달라집니다. 레퍼런스 이미지를 고정하는 것 말고 효과 있었던 방법이 궁금합니다.",
       "tags": ["#Veo", "#캐릭터일관성"],
       "metrics": "♡ 18    댓글 32"
     }
   ],
   "rightRail": {
-    "trending": ["Veo 4 레퍼런스 비교", "Kling 3 Motion Control", "AI 단편영화 공모전", "캐릭터 일관성 워크플로"],
+    "trending": ["01 · Veo 4 레퍼런스 비교", "02 · Kling 3 Motion Control", "03 · AI 단편영화 공모전", "04 · 캐릭터 일관성 워크플로"],
     "tools": ["Veo", "Kling", "Seedance", "Runway", "ComfyUI"],
     "tags": ["#AI단편영화", "#실사영상", "#캐릭터일관성", "#프롬프트", "#뮤직비디오", "#워크플로"],
     "creators": [
