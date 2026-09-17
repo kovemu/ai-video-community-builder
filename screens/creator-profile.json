@@ -6,14 +6,14 @@
   "creator": {
     "handle": "@bluefilm",
     "role": "AI Filmmaker",
-    "specialty": "SF / Cinematic / Music Video",
-    "tools": ["Kling", "Veo", "Runway", "ComfyUI"],
-    "collaborationStatus": "협업 가능"
+    "specialty": "SF / Cinematic Storytelling / Music Video",
+    "tools": ["Veo", "Kling", "Runway", "ComfyUI"],
+    "collaborationStatus": "협업 가능 · 유료/수익배분"
   },
   "tabs": ["작품", "소개", "협업", "판매"],
   "works": [
-    {"title": "Neon Rain", "tools": ["Kling", "Veo"]},
-    {"title": "Orbit", "tools": ["Runway", "ComfyUI"]},
+    {"title": "Neon Rain", "tools": ["Veo", "Kling"]},
+    {"title": "Orbit Zero", "tools": ["Runway", "ComfyUI"]},
     {"title": "Afterimage", "tools": ["Veo", "Runway"]}
   ]
 }
