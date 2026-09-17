@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.1
+
+- Fix Figma auto-layout error during Home generation: `layoutSizingHorizontal = FILL` is now applied only after `Home Composer` is attached to its auto-layout parent.
+- Add regression coverage that reproduces Figma's `FILL can only be set on children of auto-layout frames` rule.
+
 ## 3.0.0
 
 - GitHub-backed remote screen definitions
