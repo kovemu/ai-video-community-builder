@@ -6,15 +6,30 @@
   "title": "탐색",
   "tabs": ["인기 작품", "신규 작품", "제작자", "툴", "태그"],
   "featuredWorks": [
-    {"title": "After Rain", "creator": "@bluefilm", "tools": ["Veo", "Runway"]},
-    {"title": "Neon Busan", "creator": "@motionlab", "tools": ["Kling", "ComfyUI"]},
-    {"title": "Last Signal", "creator": "@neofilm", "tools": ["Seedance", "Premiere"]}
+    {
+      "title": "새벽 2시, 서울역 — 48초 AI 시네마틱",
+      "creator": "@bluefilm",
+      "tools": ["Veo", "Midjourney", "Premiere"],
+      "metrics": "♡ 214    댓글 38    저장"
+    },
+    {
+      "title": "고정 캐릭터로 6컷 뮤직비디오 테스트",
+      "creator": "@motionlab",
+      "tools": ["Kling", "ComfyUI"],
+      "metrics": "♡ 173    댓글 26    저장"
+    },
+    {
+      "title": "비 오는 부산 골목 — 이미지→영상 실험",
+      "creator": "@neofilm",
+      "tools": ["Seedance", "Premiere"],
+      "metrics": "♡ 149    댓글 21    저장"
+    }
   ],
   "risingCreators": [
-    {"handle": "@bluefilm", "role": "AI Filmmaker", "specialty": "Cinematic / SF"},
-    {"handle": "@motionlab", "role": "Director", "specialty": "Music Video"},
-    {"handle": "@neofilm", "role": "AI Creator", "specialty": "Realistic Video"}
+    {"handle": "@bluefilm", "role": "AI Filmmaker · Cinematic / SF"},
+    {"handle": "@motionlab", "role": "Director · Music Video"},
+    {"handle": "@neofilm", "role": "AI Creator · Realistic Video"}
   ],
   "popularTools": ["Veo", "Kling", "Seedance", "Runway", "ComfyUI"],
-  "popularTopics": ["#AI단편영화", "#캐릭터일관성", "#립싱크", "#카메라무빙", "#실사AI"]
+  "popularTopics": ["#AI단편영화", "#캐릭터일관성", "#카메라무빙", "#실사AI", "#뮤직비디오", "#워크플로"]
 }
