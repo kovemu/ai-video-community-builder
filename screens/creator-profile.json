@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "key": "creator-profile",
+  "frameName": "[AIVC] Creator Profile",
+  "activeNav": "",
+  "creator": {
+    "handle": "@bluefilm",
+    "role": "AI Filmmaker",
+    "specialty": "SF / Cinematic / Music Video",
+    "tools": ["Kling", "Veo", "Runway", "ComfyUI"],
+    "collaborationStatus": "협업 가능"
+  },
+  "tabs": ["작품", "소개", "협업", "판매"],
+  "works": [
+    {"title": "Neon Rain", "tools": ["Kling", "Veo"]},
+    {"title": "Orbit", "tools": ["Runway", "ComfyUI"]},
+    {"title": "Afterimage", "tools": ["Veo", "Runway"]}
+  ]
+}
